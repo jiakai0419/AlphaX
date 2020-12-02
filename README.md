@@ -3,7 +3,6 @@
   
 **Todo List**
 * DQN
-* A2C
 * A3C
 * PPO
 * DDPG
